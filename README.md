@@ -21,3 +21,11 @@ Good papers in 2017 IEEE Conference on Computer Vision and Pattern Recognition.
 ## 训练提升
 :white_check_mark: [Learning From Synthetic Humans]
 
+## 图像显著性
+:white_check_mark: [Learning to Detect Salient Objects With Image-Level Supervision]
+
+## 图像分割&检测&识别
+:white_check_mark: [Temporal Convolutional Networks for Action Segmentation and Detection]
+
+## 对抗神经网络
+:white_check_mark: [DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data]
