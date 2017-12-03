@@ -338,7 +338,7 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [Learned Contextual Feature Reweighting for Image Geo-Localization]
 
-## 专业相关（非机器学习）
+# 专业相关（非机器学习）
 ### 色彩恒常性
 :white_check_mark: [Fast Fourier Color Constancy]
 
