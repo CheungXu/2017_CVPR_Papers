@@ -6,6 +6,7 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [Comparative Evaluation of Hand-Crafted and Learned Local Features]
 
+:white_check_mark: [Understanding deep learning requires rethinking generalization]
 
 ## 模型压缩&模型加速
 :white_check_mark: [Local Binary Convolutional Neural Networks]
