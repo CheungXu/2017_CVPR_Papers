@@ -354,6 +354,6 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [Are Large-Scale 3D Models Really Necessary for Accurate Visual Localization?]
 
-### 水印
+### 可见水印
 :white_check_mark: [On the Effectiveness of Visible Watermarks]
 
