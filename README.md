@@ -306,6 +306,8 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [Deep Video Deblurring for Hand-held Cameras]
 
+:white_check_mark: [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks]
+
 ## 图像质量评价
 :white_check_mark: [Deep Learning of Human Visual Sensitivity in Image Quality Assessment Framework]
 
