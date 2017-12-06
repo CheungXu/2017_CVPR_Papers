@@ -44,6 +44,12 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [Person Search with Natural Language Description]
 
+:white_check_mark: [Unsupervised Visual-Linguistic Reference Resolution in Instructional Videos]
+
+:white_check_mark: [Dense Captioning With Joint Inference and Visual Context]
+
+:white_check_mark: [Instance-Aware Image and Sentence Matching With Selective Multimodal LSTM]
+
 ## 三维重建
 :white_check_mark: [Face Normals "In-The-Wild" Using Fully Convolutional Networks]
 
@@ -64,6 +70,8 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 :white_check_mark: [NID-SLAM: Robust Monocular SLAM using Normalised Information Distance]
 
 :white_check_mark: [Synthesizing 3D Shapes via Modeling Multi-View Depth Maps and Silhouettes With Deep Generative Networks]
+
+:white_check_mark: [End-To-End Training of Hybrid CNN-CRF Models for Stereo]
 
 ## 虚拟现实
 :white_check_mark: [Position Tracking for Virtual Reality Using Commodity WiFi]
@@ -95,6 +103,10 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [Learning a Deep Embedding Model for Zero-Shot Learning]
 
+:white_check_mark: [Unsupervised Visual-Linguistic Reference Resolution in Instructional Videos]
+
+:white_check_mark: [Unsupervised Learning of Long-Term Motion Dynamics for Videos]
+
 ## 训练提升技巧
 :white_check_mark: [Learning From Synthetic Humans]
 
@@ -110,6 +122,8 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 :white_check_mark: [Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning]
 
 :white_check_mark: [Supervising Neural Attention Models for Video Captioning by Human Gaze Data]
+
+:white_check_mark: [Deep Level Sets for Salient Object Detection]
 
 ## 分割&检测识别&追踪&预测
 :white_check_mark: [Temporal Convolutional Networks for Action Segmentation and Detection]
@@ -216,6 +230,12 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [Deep MANTA: A Coarse-to-fine Many-Task Network for joint 2D and 3D vehicle analysis from monocular image]
 
+:white_check_mark: [Unsupervised Learning of Long-Term Motion Dynamics for Videos]
+
+:white_check_mark: [SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation]
+
+:white_check_mark: [Fully Convolutional Instance-Aware Semantic Segmentation]
+
 ## 对抗神经网络
 :white_check_mark: [DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data]
 
@@ -232,6 +252,8 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 :white_check_mark: [3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images]
 
 :white_check_mark: [Learning From Simulated and Unsupervised Images Through Adversarial Training]
+
+:white_check_mark: [Expecting the Unexpected: Training Detectors for Unusual Pedestrians With Adversarial Imposters]
 
 ## 深度强化学习
 :white_check_mark: [Deep Reinforcement Learning-Based Image Captioning With Embedding Reward]
@@ -269,6 +291,14 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [Loss Max-Pooling for Semantic Image Segmentation]
 
+:white_check_mark: [Mind the Class Weight Bias: Weighted Maximum Mean Discrepancy for Unsupervised Domain Adaptation]
+
+:white_check_mark: [Instance-Aware Image and Sentence Matching With Selective Multimodal LSTM]
+
+:white_check_mark: [Deep Temporal Linear Encoding Networks]
+
+:white_check_mark: [Deep Feature Flow for Video Recognition]
+
 ## 图像转换
 :white_check_mark: [Turning an Urban Scene Video Into a Cinemagraph]
 
@@ -283,6 +313,13 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 :white_check_mark: [From Red Wine to Red Tomato: Composition with Context]
 
 :white_check_mark: [StyleBank: An Explicit Representation for Neural Image Style Transfer]
+
+:white_check_mark: [Deep View Morphing]
+
+## 图像校正
+:white_check_mark: [CLKN: Cascaded Lucas-Kanade Networks for Image Alignment]
+
+:white_check_mark: [Unrolling the Shutter: CNN to Correct Motion Distortions]
 
 ## 机器学习
 :white_check_mark: [Transition Forests: Learning Discriminative Temporal Transitions for Action Recognition and Detection]
@@ -299,7 +336,11 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [iCaRL: Incremental Classifier and Representation Learning]
 
-## 超分辨率
+:white_check_mark: [ShapeOdds: Variational Bayesian Learning of Generative Shape Models]
+
+:white_check_mark: [Outlier-Robust Tensor PCA]
+
+## 超分辨率&去模糊
 :white_check_mark: [Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution]
 
 :white_check_mark: [Attention-Aware Face Hallucination via Deep Reinforcement Learning]
@@ -307,6 +348,8 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 :white_check_mark: [Deep Video Deblurring for Hand-held Cameras]
 
 :white_check_mark: [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks]
+
+:white_check_mark: [From Motion Blur to Motion Flow: A Deep Learning Solution for Removing Heterogeneous Motion Blur]
 
 ## 图像质量评价
 :white_check_mark: [Deep Learning of Human Visual Sensitivity in Image Quality Assessment Framework]
@@ -316,6 +359,8 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 
 ## 自动驾驶
 :white_check_mark: [Multi-View 3D Object Detection Network for Autonomous Driving]
+
+:white_check_mark: [End-To-End Learning of Driving Models From Large-Scale Video Datasets]
 
 ## 图像相似性
 :white_check_mark: [Conditional Similarity Networks]
@@ -341,6 +386,8 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [Learned Contextual Feature Reweighting for Image Geo-Localization]
 
+:white_check_mark: [ER3: A Unified Framework for Event Retrieval, Recognition and Recounting]
+
 # 专业相关（非机器学习）
 ### 色彩恒常性
 :white_check_mark: [Fast Fourier Color Constancy]
@@ -348,8 +395,14 @@ Good deep-learning papers in 2017 IEEE Conference on Computer Vision and Pattern
 ### 相机自动校准
 :white_check_mark: [A Practical Method for Fully Automatic Intrinsic Camera Calibration Using Directionally Encoded Light]
 
+### 光源能量分布估计
+:white_check_mark: [Designing illuminant spectral power distributions for surface classification]
+
 ### 精确光流
 :white_check_mark: [Accurate Optical Flow via Direct Cost Volume Processing]
+
+### 草图匹配
+:white_check_mark: [Asymmetric Feature Maps With Application to Sketch Based Retrieval]
 
 ### 三维建模
 :white_check_mark: [KillingFusion: Non-rigid 3D Reconstruction without Correspondences]
